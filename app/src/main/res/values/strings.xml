@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save">Save</string>
+    <string name="habitNameHint">name</string>
+    <string name="habitDescriptionHint">description</string>
+    <string name="habitPriorityHint">priority</string>
+    <string name="habitTypeHint">type</string>
+    <string name="habitRepeatsHint">repeats</string>
+    <string name="habitPeriodHint">period</string>
+</resources>
